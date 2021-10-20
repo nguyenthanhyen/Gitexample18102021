@@ -1,0 +1,3 @@
+Con đường xưa em đi /br >b.txt
+
+echo Con đường xưa em đi /br
